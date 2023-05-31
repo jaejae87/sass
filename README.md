@@ -50,3 +50,17 @@ scss는 _로 시작하는 파일은 컴파일 하지 않는다.
 ![image](https://github.com/jaejae87/sass/assets/129706762/f13965d3-f91c-4993-9dd6-13cf56446d08)
 
 
+ # @import --> 변수가  중복될때는 아래의 것이 적용된다.
+ 
+ # @use --> 변수이름이 같을때 에러발생,@use를 사용할때는 앞에 파일명을 추가해서 파일명 , 변수명 
+![image](https://github.com/jaejae87/sass/assets/129706762/a7c99c16-93e0-4530-9e13-0b095ea7d5e1)
+
+![image](https://github.com/jaejae87/sass/assets/129706762/762bcadf-133b-4d15-9a04-0b0b194bee61)
+
+
+![image](https://github.com/jaejae87/sass/assets/129706762/6057c3da-e200-471a-8306-6612fc9eeabb)
+
+# as 뒤에 별명을 붙여서 사용할 수 있다.
+
+![image](https://github.com/jaejae87/sass/assets/129706762/51be06ad-9d95-400d-9400-446acb6eabe8)
+
