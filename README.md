@@ -68,4 +68,6 @@ scss는 _로 시작하는 파일은 컴파일 하지 않는다.
 
 ![image](https://github.com/jaejae87/sass/assets/129706762/de70d8f7-c382-427b-a708-07955de856d7)
 
+# *(와일드카드)를 붙이면 이름을 생략할 수 있다
+![image](https://github.com/jaejae87/sass/assets/129706762/af1d7ac2-aeed-426d-9794-7c872bc1b13b)
 
