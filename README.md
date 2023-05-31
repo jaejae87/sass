@@ -64,3 +64,8 @@ scss는 _로 시작하는 파일은 컴파일 하지 않는다.
 
 ![image](https://github.com/jaejae87/sass/assets/129706762/51be06ad-9d95-400d-9400-446acb6eabe8)
 
+# forward는 파샬을 묶어줌 style.scss에서 _index.scss를 호출하여 사용함
+
+![image](https://github.com/jaejae87/sass/assets/129706762/de70d8f7-c382-427b-a708-07955de856d7)
+
+
