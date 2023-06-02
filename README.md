@@ -75,5 +75,13 @@ scss는 _로 시작하는 파일은 컴파일 하지 않는다.
 
 ![image](https://github.com/jaejae87/sass/assets/129706762/861b04b3-0d73-4fe7-859b-767ad4fa6e4b)
 
+# 보간법 
+![image](https://github.com/jaejae87/sass/assets/129706762/017dd76a-b3c2-4f89-8840-ba2245b2e468)
+
+# nesting 네스팅--품다
+
+# 함수
+
+![image](https://github.com/jaejae87/sass/assets/129706762/728fe245-3f6b-4163-b6d9-b9e365cb0fd4)
 
 
